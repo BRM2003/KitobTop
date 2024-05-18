@@ -1,0 +1,1 @@
+web: gunicorn KitobTop.wsgi --log-file -
